@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778394856571",
+    "project_id": "uogga-9aee0",
+    "storage_bucket": "uogga-9aee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778394856571:android:c68d9ec509a9330f3a86de",
+        "android_client_info": {
+          "package_name": "com.example.uogga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZ8kjizgu-igR7IvC0uUTuIeEmSr1DRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
